@@ -1,6 +1,8 @@
 pushbullet
 ==========
 
+This app helps to send notification alert via pushbullet (https://www.pushbullet.com/). I call this command line tool in ISPY (http://www.ispyconnect.com/userguide-alerts.aspx) setting in the panel "ALERT - actions" "execute File" and passing the parameter /k /d /ispy 
+
 SINTAX
 
 

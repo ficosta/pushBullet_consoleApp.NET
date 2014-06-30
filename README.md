@@ -26,5 +26,4 @@ SINTAX
     list devices
             pushBullet.exe /k [Token] /list all
 
-
-Do not write "[" "]". You can find "Device_id" string using command /list all at the property "iden"
+    Do not write "[" "]". You can find "Device_id" string using command /list all at the property "iden"
